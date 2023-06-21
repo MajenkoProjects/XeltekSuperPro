@@ -8,6 +8,8 @@ This version builds on the original work and cleans it up a little, fixing a few
 
 The original can be found here: http://matthieu.benoit.free.fr/xeltek_superpro_programmer.htm
 
+Originally the reverse engineering and design was created by Janusz Chałupnik (link pending - when I get details let's shower him with gratitude for his hard work)
+
 Changes
 -------
 
