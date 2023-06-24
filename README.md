@@ -1,7 +1,7 @@
 Xeltek SuperPro ISA Card
 ========================
 
-The original work credit has to go to Janusz Chałupnik (with additional information from Matthieu Benoit) for his stirling work in reverse engineering and developing the first version of the SuperPro ISA card.
+The original work credit has to go to Janusz Chałupnik (with additional information from Matthieu Benoit) for his stirling work in reverse engineering and developing the first version of the SuperPro ISA card. If this is useful in any way please consider sending Janusz some love through PayPal using the recipient address `du-tronik@wp.pl`.
 
 This version builds on the original work and cleans it up a little, fixing a few bugs in that version.
 
